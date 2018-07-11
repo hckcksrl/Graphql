@@ -55,7 +55,6 @@
 // }
 
 import fetch from "node-fetch"
-import { AlexaForBusiness } from "aws-sdk";
 import axios from "axios"
 
 const API_URL = "https://yts.am/api/v2/list_movies.json"
