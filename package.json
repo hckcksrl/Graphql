@@ -7,6 +7,7 @@
   "author": "hckcksrl",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "graphql-yoga": "^1.14.12",
     "node-fetch": "^2.1.2"
   },
